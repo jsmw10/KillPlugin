@@ -1,0 +1,9 @@
+name: KillPlugin
+version: ${project.version}
+main: me.jsm.w.killplugin.KillPlugin
+authors: [ Smokefall ]
+description: A plugin for players to /kill themselves.
+website: www.github.com/jsmw10
+commands:
+  kill:
+    description: Kills the player.
